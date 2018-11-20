@@ -1,4 +1,8 @@
+"""
+Created on Sun Nov 18 12:36:44 2018
 
+@author: SESA489824
+"""
 'Biblioteca para desenhar o grafo'
 
 import networkx as nx
